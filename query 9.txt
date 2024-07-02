@@ -1,0 +1,2 @@
+INSERT INTO students (id, degree_id, name, surname, date_of_birth, fiscal_code, enrolment_date, registration_number, email)
+VALUES (NULL, 50, 'Stefano', 'Cretella', '2024-07-22', 'CRTSFN03A02A509U', '2024-07-02', 700000, 'cretellastefano213@gmail.com');
