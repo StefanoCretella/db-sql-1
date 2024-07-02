@@ -1,0 +1,1 @@
+DELETE FROM students WHERE name = 'Stefano' AND surname = 'Cretella' AND date_of_birth = '2024-07-22';
