@@ -1,0 +1,3 @@
+UPDATE teachers 
+SET office_number = 126 
+WHERE name = 'Pietro' AND surname = 'Rizzo';
